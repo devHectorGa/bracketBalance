@@ -1,0 +1,15 @@
+{
+  "name": "balanced",
+  "version": "0.0.0",
+  "description": "Balanced Parentesis",
+  "main": "index.js",
+  "author": "@devHectorGa",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc src/index.ts -w --outDir dist",
+    "build": "tsc src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
